@@ -1,5 +1,5 @@
 # hello-world
 
-Just another repository like any other
+Hi Humans!
 
-Im Kushal idk what 2 say abt myself im a cool kid yk
+I like mexican food from the moon. imagine liking earth
