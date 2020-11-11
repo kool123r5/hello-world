@@ -1,2 +1,5 @@
 # hello-world
-my first repository
+
+Hi Humans!
+
+I like mexican food from the moon. imagine liking earth
