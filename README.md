@@ -1,5 +1,5 @@
 # hello-world
 
-Hi Humans!
+Hi People!
 
-I like mexican food from the moon. imagine liking earth
+
